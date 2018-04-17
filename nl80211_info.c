@@ -5,7 +5,6 @@
 *                                                            *
 * Author     : Antonios Tsolis (2016)                        *
 *************************************************************/
-#define _XOPEN_SOURCE 700
 #include <stdio.h>
 #include <signal.h>
 #include <string.h>
