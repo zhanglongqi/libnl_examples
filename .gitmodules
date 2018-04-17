@@ -1,0 +1,4 @@
+[submodule "wifi-scan"]
+	path = wifi-scan
+	url = git@github.com:zhanglongqi/wifi-scan.git
+	branch = master
