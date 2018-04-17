@@ -1,6 +1,3 @@
-# libnl example
-
-
 Thanks for the example from:
 
 <https://github.com/doctaweeks/ap-notify>
